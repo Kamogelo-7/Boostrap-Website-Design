@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(red , blue );
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.navbar-toggler{
+  background-color: rgb(253, 253, 255);
+  border-style: none;
+ 
+}
+.container-fluid{
+  padding: 5px;
+  background-color: rgb(0, 0, 0);
+  
+  
+}
+.navbar-brand{
+  color: aliceblue;
+  
+}
+.nav-link{
+  color: aliceblue;
+}
+
+.btn{
+  background-color: rgb(5, 218, 207);
+  border-style: none;
+  
+}
+.btn-outline-secondary{
+  color: rgb(1, 238, 198);
+  background-color: rgb(255, 0, 238);
+  border-style: none;
+}
+.btn-outline-success{
+  color: rgb(4, 4, 4);
+}
+.style{
+  width: 200px;
+  height: 200px;
+  box-shadow: rgb(0, 0, 0) 1px 2px 4px;
+}
+b{
+  color: rgb(0, 229, 0);
+}
+p{
+  color: black;
+}
+h3{
+  text-align: center;
+  color: black;
+}
+.pb-2{
+  text-align: center;
+  color: black;
+}
+.pic{
+ background-image: linear-gradient( rgb(247, 0, 255), rgb(255, 255, 255), rgb(0, 255, 187)); 
+ text-align: center;
+ border-radius: 15px;
+ max-width: fit-content;
+ padding: 5px;
+ box-shadow: black 2px 3px 5px;
+}
+.containerr{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
